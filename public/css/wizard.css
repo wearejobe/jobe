@@ -1,0 +1,12 @@
+.wizard .dark-sidebar {
+    background: #232323;
+    color: rgba(255,255,255,.5);
+}
+.wizard .card {
+    overflow: hidden;
+}
+ul.steps-group{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
